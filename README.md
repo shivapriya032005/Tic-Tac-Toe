@@ -55,5 +55,5 @@ Feel free to fork this project, submit issues, or create pull requests. Contribu
 
 ## Author
 
-- **Your Name** - [Your GitHub Profile](https://github.com/shivapriya032005)
+- **Your Name** - (https://github.com/shivapriya032005)
 
