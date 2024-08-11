@@ -55,5 +55,5 @@ Feel free to fork this project, submit issues, or create pull requests. Contribu
 
 ## Author
 
-- **Your Name** - Lalitha Shivapriya (https://github.com/shivapriya032005)
+- **Your Name** - [Lalitha Shivapriya](https://github.com/shivapriya032005)
 
